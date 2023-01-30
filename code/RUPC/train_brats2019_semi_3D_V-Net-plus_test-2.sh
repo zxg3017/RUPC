@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=6 python test_3D.py --model vnet --root_path ../data/BraTS2019 --exp BraTS2019/Mean_Teacher_25
